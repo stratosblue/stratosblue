@@ -1,4 +1,4 @@
-### Hi there 👋
+### H[i](./idea.md) there [👋](./projects.md)
 
 <!--
 **stratosblue/stratosblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
